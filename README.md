@@ -1,6 +1,6 @@
 # bertocarl.github.io
 
-####################################################################################################################################################### A SHORT BIOGRAPHY OF ALBERT CARLOS OMWARE ###########################
+####################################################################################################################################################### BIOGRAPHY OF ALBERT CARLOS OMWARE ###########################
 This is a profile landing page to show my career goals and objective during my career as a developer, showcasing some of my projects and works that have done during my time coding.
 
 ########## MOTIVATION ################

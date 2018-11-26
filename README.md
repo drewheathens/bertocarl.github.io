@@ -7,6 +7,7 @@ This is a profile landing page to show my career goals and objective during my c
 My motivation behind this project was to market my skill set to many potential clients and employers of the solutions that I can offer and my desire is to be a problem solver and a solution to many challenges faced today.
 ######## SETUP/ INSTALLATIONS ########
 Knowlege of Git,CSS and HTML languages
+Knowledge of internet browser i.e Chrome, Firefox, Internet explorer
 ######## VERSIONING  #################
 For the versions available, see the tags on this repository.
 ######## SUPPORT  ####################
